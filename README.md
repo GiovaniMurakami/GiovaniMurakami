@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiovaniMurakami
-- 👀 I’m interested in ... Any C language, actually introducing C
-- 🌱 I’m currently learning ... C on CodeBlocks
+- 👀 I’m interested in ... JavaScript
+- 🌱 I’m currently learning ... JS, Node.JS and VueJS
 - 💞️ I’m looking to collaborate on ... System developments
 - 📫 How to reach me ... on my email: giovani.murakami@outlook.com
