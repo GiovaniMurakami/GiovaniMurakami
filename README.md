@@ -1,8 +1,8 @@
-## Olá, eu sou o GiovaniMurakami
-
-- Atualmente procurando emprego como Dev Júnior;
+<h1 align="left"> Olá, eu sou o GiovaniMurakami </h1>
+<div align="left">
+- Atualmente procurando emprego como Dev Júnior;<br>
 - Estudando JavaScript;
-
+</div>
 
 <div align="left">
   <a href="https://github.com/GiovaniMurakami">
