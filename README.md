@@ -2,7 +2,7 @@
 
 - Atualmente procurando emprego como Dev Júnior;
 - Estudando JavaScript, HTML e CSS;
-- 
+
 
 <div align="left">
   <a href="https://github.com/GiovaniMurakami">
