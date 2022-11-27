@@ -3,13 +3,12 @@
 - Atualmente procurando emprego como Dev Júnior;
 - Estudando JavaScript, HTML e CSS;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniMurakami)](https://github.com/GiovaniMurakami/github-readme-stats)
-
 
 <div align="left">
   <a href="https://github.com/GiovaniMurakami">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovaniMurakami&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniMurakami&showicons=true&layout=compact&langs_count=7&theme=dark"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniMurakami&layout=compact&theme=dark)](https://github.com/GiovaniMurakami/github-readme-stats)
 </div>
   
   
