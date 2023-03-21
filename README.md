@@ -1,6 +1,5 @@
 <h1 align="left"> Olá, eu sou o GiovaniMurakami </h1>
 <div align="left">
-- Atualmente procurando emprego como Dev Júnior;<br>
 - Estudando JavaScript; </p>
 </div>
 
