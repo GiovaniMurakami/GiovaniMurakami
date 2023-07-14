@@ -13,8 +13,12 @@
 
   
 <div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg"></p>
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+</p>
 
   ![Snake animation](https://github.com/GiovaniMurakami/GiovaniMurakami/blob/output/github-contribution-grid-snake.svg)
 </div>
