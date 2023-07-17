@@ -19,6 +19,4 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
 </p>
-
-  ![Snake animation](https://github.com/GiovaniMurakami/GiovaniMurakami/blob/output/github-contribution-grid-snake.svg)
 </div>
