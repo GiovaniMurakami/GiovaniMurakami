@@ -1,6 +1,6 @@
 <h1 align="left"> Olá, eu sou o GiovaniMurakami </h1>
 <div align="left">
-- Estudando HTML5, CSS3 e JavaScript || Ruby e Ruby on Rails; </p>
+- Estudando HTML5, CSS3 e JavaScript</p>
 </div>
 
 <div align="left">
